@@ -1,7 +1,13 @@
+# Build options
+source: "."
+template_extensions:
+  - md
+  - liquid
 
+# Site options
 site:
-  title: cobalt blog
-  description: Blog Posts Go Here
+  title: Local Hack Day 2018 - Universidad de Guanajuato
+  description: Universidad de Guanajuato LHD webpage
   base_url: http://example.com
 posts:
   rss: rss.xml
