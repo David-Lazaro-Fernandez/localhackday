@@ -7,7 +7,7 @@
 |------|-----------|----------|
 | - |Revisar el programa| Rodolfo Ferro|
 | - | IoT Conferencia | Paco & Lalo |
-| - | Rust + quejarse | Omar Purata|
+| - | Introducción al lenguaje Rust| Omar Jair Purata Funes|
 | - | Cosas chidas de GitHub | Campus Experts :heart: |
 | - | Cosas de invitados | Invitados extra |
 
@@ -15,7 +15,7 @@
 * Add a GitHub page
 * Get a nice-looking banner
 * Prepare speeches
-* Make issue/PR labels
+* Make issue/PR labels :heart:
 * Invite people :D
 * Convince people to use Rocket for the LHD webpage
 
