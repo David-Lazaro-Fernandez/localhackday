@@ -7,7 +7,8 @@
 |------|-----------|----------|
 | - |Revisar el programa| Rodolfo Ferro|
 | - | IoT Conferencia | Paco & Lalo |
-| - | Introducción al lenguaje Rust| Omar Jair Purata Funes|
+| - | Introducción al lenguaje Rust| Rust Community Invited|
+| - | Concurrencia en Rust | Omar Jair Purata Funes |
 | - | Cosas chidas de GitHub | Campus Experts :heart: |
 | - | Cosas de invitados | Invitados extra |
 
