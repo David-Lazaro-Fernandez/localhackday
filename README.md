@@ -5,11 +5,17 @@
 
 | Hora | Actividad | Asignado |
 |------|-----------|----------|
-| - |Revisar el programa| Rodolfo Ferro|
-| - | IoT Conferencia | Paco & Lalo |
-| - | Introducción al lenguaje Rust| Omar Jair Purata Funes|
-| - | Cosas chidas de GitHub | Campus Experts :heart: |
-| - | Cosas de invitados | Invitados extra |
+| 8:00 am |Check-in e inicio de registro de los participantes| Flab & Kaizen |
+| 9:00 am | Ceremonia de inauguración | Sin asignar |
+| 9:30 am | Inicia el Hacking :octocat: :heart: | Sin asignar|
+| 10:00 am | MLH Localhost workshop | Sin asignar |
+| 13:00 pm | Lunch break :pizza: | Sin asignar |
+| 14:00 pm | MLH Localhost workshop | Sin asignar |
+| 18:00 pm | Dinner break :pizza: | Sin asignar |
+| 19:30 pm | Hacking ends / Demo Start | Sin asignar |
+| 21:00 pm | Premios & Cierre del evento | Sin asignar |
+
+<!-- 22:00 pm Una pedota ;) -->
 
 ## TODO:
 * Add a GitHub page
