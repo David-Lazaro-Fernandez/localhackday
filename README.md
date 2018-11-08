@@ -5,6 +5,7 @@
 
 | Hora | Actividad | Asignado |
 |------|-----------|----------|
+<<<<<<< HEAD
 | 8:00 am |Check-in e inicio de registro de los participantes| Flab & Kaizen |
 | 9:00 am | Ceremonia de inauguración | Sin asignar |
 | 9:30 am | Inicia el Hacking :octocat: :heart: | Sin asignar|
@@ -16,6 +17,14 @@
 | 21:00 pm | Premios & Cierre del evento | Sin asignar |
 
 <!-- 22:00 pm Una pedota ;) -->
+=======
+| - |Revisar el programa| Rodolfo Ferro|
+| - | IoT Conferencia | Paco & Lalo |
+| - | Introducción al lenguaje Rust| Rust Community Invited|
+| - | Concurrencia en Rust | Omar Jair Purata Funes |
+| - | Cosas chidas de GitHub | Campus Experts :heart: |
+| - | Cosas de invitados | Invitados extra |
+>>>>>>> 55de0dee74b3c6dfed4f0212609632748b9b0f0e
 
 ## TODO:
 * Add a GitHub page
