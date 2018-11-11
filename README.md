@@ -18,12 +18,12 @@
 <!-- 22:00 pm Una pedota ;) -->
 
 ## TODO:
-* Add a GitHub page
+* Add a GitHub page :heavy_check_mark:
 * Get a nice-looking banner
 * Prepare speeches
-* Make issue/PR labels :heart:
+* Make issue/PR labels :heavy_check_mark:
 * Invite people :D
-* Convince people to use Rocket for the LHD webpage
+* ~~Convince people to use Rocket for the LHD webpage~~ *Cancelled*
 
 ## Talleres, charlas, proyectos, etc.
 
