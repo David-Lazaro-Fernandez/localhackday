@@ -19,7 +19,7 @@
 
 ## TODO:
 * Add a GitHub page :heavy_check_mark:
-* Get a nice-looking banner
+* Get a nice-looking banner :heavy_check_mark:
 * Prepare speeches
 * Make issue/PR labels :heavy_check_mark:
 * Invite people :D
